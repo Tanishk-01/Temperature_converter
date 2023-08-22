@@ -39,4 +39,4 @@ btn.addEventListener("click", ()=>{
     celciusInput.value ="";
     fahrenheitInput.value ="";
     kelvinInput.value="";
-})
+});
